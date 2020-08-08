@@ -1,0 +1,26 @@
+{
+  "name": "conversify",
+  "version": "1.0.0",
+  "description": "npm-package that represents an advanced implementation of JSON.stringify method",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corocoto/conversify.git"
+  },
+  "keywords": [
+    "stringify",
+    "json",
+    "string",
+    "converting",
+    "conversify"
+  ],
+  "author": "Artem Gusev <gusev2014russia@mail.ru> (corocoto)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/corocoto/conversify/issues"
+  },
+  "homepage": "https://github.com/corocoto/conversify#readme",
+  "devDependencies": {
+    "eslint": "^7.6.0"
+  }
+}
