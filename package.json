@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/corocoto/conversify#readme",
   "devDependencies": {
-    "eslint": "^7.6.0"
+    "eslint": "^7.6.0",
+    "jest": "^26.2.2"
   }
 }
