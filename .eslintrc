@@ -6,7 +6,8 @@
     "node": true,
     "shared-node-browser": true,
     "es2017": true,
-    "amd": true
+    "amd": true,
+    "jest": true
   },
   "extends": "eslint:recommended",
   "globals": {

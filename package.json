@@ -8,7 +8,8 @@
     "url": "git+https://github.com/corocoto/conversify.git"
   },
   "scripts": {
-    "test": "node test/test.js --watchAll=false"
+    "test": "jest test/index.test.js",
+    "test:watch": "npm run test -- --watch"
   },
   "keywords": [
     "stringify",
