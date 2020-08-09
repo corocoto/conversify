@@ -16,7 +16,7 @@ Such as `Date` value, `+/-Infinity`, `undefined`, `NaN` and function realization
 npm install conversify
 ```
 
-## Using
+## Example of using
 
 ```js
 const conversify = require('conversify');
@@ -46,7 +46,7 @@ console.log(stringifiedObj);
 
 ## Comparison
 
-Array that will be used for comparison two methods:
+Array that will be used for comparison two methods (`JSON.strinigfy` and `conversify`):
 
 ```js
 const testArr = [
@@ -74,6 +74,30 @@ const testArr = [
 ];
 ```
 
+**Result**:
+
 | `JSON.stringify` | `conversify` |  
 |------------------|--------------|
 | <img alt="convert array using JSON.stringify" src="https://user-images.githubusercontent.com/37180024/89712958-e9459b00-d99c-11ea-8cca-ed41bb7b2d77.png"> | <img alt="convert array using conversify package" src="https://user-images.githubusercontent.com/37180024/89712954-e64aaa80-d99c-11ea-8ddc-55553c625c86.png"> |
+
+## License 
+
+**conversify** package is open-sourced software licensed under the MIT License (MIT). Please see [License File](LICENSE) for more information.
+
+## Changelog 
+
+Detailed changes for each release are documented in the [release notes](CHANGELOG.md).
+
+## Contributing
+
+I'm thanks all the people, that who contributed or who want to contribute to **conversify**.
+
+If you want to contribute, make sure to read the [Contributing Guide](CONTRIBUTING.md) before making a pull request, thanks.
+
+## Conclusion
+
+If you still have questions about the work of this package :grey_question: or you have cool ideas for improvement :boom:, please write to me :email:.
+
+If you find a bug :bug:, please create an appropriate issue with detailed information about it :speech_balloon:.
+
+Thanks!

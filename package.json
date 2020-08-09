@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/corocoto/conversify.git"
   },
+  "scripts": {
+    "test": "node test/test.js --watchAll=false"
+  },
   "keywords": [
     "stringify",
     "json",
