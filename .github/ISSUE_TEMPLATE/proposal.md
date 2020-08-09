@@ -1,6 +1,6 @@
 ---
 name: Proposal
-about: Suggest an idea for improving package
+about: Suggest an idea for improving the package
 labels: 'issue: proposal'
 ---
 
