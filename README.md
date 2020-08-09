@@ -1,5 +1,10 @@
 # conversify
 
+![NPM bundle size](https://img.shields.io/bundlephobia/minzip/conversify?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/corocoto/conversify?style=flat-square)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/corocoto/conversify?style=flat-square)
+![License](https://img.shields.io/npm/l/conversify?style=flat-square)
+
 ## Description
 
 <img src="https://user-images.githubusercontent.com/37180024/89704181-64d22880-d95a-11ea-9593-42a2381f0e82.png" width="120" align="right">
