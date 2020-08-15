@@ -1,8 +1,10 @@
 # conversify
 
-![NPM bundle size](https://img.shields.io/bundlephobia/minzip/conversify?style=flat-square)
+![NPM bundle size](https://img.shields.io/bundlephobia/min/conversify?style=flat-square)
+![NPM bundle size (minzip)](https://img.shields.io/bundlephobia/minzip/conversify?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/corocoto/conversify?style=flat-square)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/corocoto/conversify?style=flat-square)
+![npm downloads](https://img.shields.io/npm/dt/conversify?style=flat-square)
 ![License](https://img.shields.io/npm/l/conversify?style=flat-square)
 
 ## Description
