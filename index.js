@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * @version v1.0.0
+ * @version v1.0.1
  * @author Artem Gusev <gusev2014russia@mail.ru> (corocoto)
  * @copyright 2020 - present Artem Gusev. All Rights Reserved.
  * @licence MIT License
