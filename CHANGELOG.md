@@ -12,3 +12,8 @@ This file describes notable changes in each version of **conversify** package.
 ### Enhancements
  + Add github badges;
  + Adds .npmignore file.
+ 
+## 1.0.2 (November 2020)
+ 
+### Minor changes
+ + Update dependencies version
