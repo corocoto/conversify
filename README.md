@@ -1,4 +1,4 @@
-# conversify
+# [conversify](https://www.npmjs.com/package/conversify)
 
 ![NPM bundle size](https://img.shields.io/bundlephobia/min/conversify?style=flat-square)
 ![NPM bundle size (minzip)](https://img.shields.io/bundlephobia/minzip/conversify?style=flat-square)
