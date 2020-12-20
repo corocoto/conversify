@@ -1,5 +1,6 @@
 # [conversify](https://www.npmjs.com/package/conversify)
 
+[![Tests CI](https://github.com/corocoto/conversify/workflows/Test/badge.svg)](https://github.com/corocoto/conversify/actions)
 ![NPM bundle size](https://img.shields.io/bundlephobia/min/conversify?style=flat-square)
 ![NPM bundle size (minzip)](https://img.shields.io/bundlephobia/minzip/conversify?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/corocoto/conversify?style=flat-square)
