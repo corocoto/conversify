@@ -2,7 +2,7 @@ Pull Requests
 -------------
 
 If you're thinking about making some changes, maybe fixing a bug, or adding a
-snazzy new feature, first, thank you.  Contributions are very welcome.  Things
+snazzy new feature, first, thank you. Contributions are very welcome. Things
 need to be manageable for the maintainers, however. So below you'll find  **The
 fastest way to get your pull request merged in.**  Some things, particularly how
 you set up your branches and work with git, are just suggestions, but pretty good

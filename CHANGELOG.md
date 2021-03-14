@@ -5,15 +5,21 @@ This file describes notable changes in each version of **conversify** package.
 ## 1.0.0 (August 2020)
 
 ### Major changes
- + First package release.
++ First package release.
  
 ## 1.0.1 (August 2020)
 
 ### Enhancements
- + Add github badges;
- + Adds .npmignore file.
++ github badges have been added;
++ [`.npmignore`](.npmignore) file has been added.
  
 ## 1.0.2 (November 2020)
  
-### Minor changes
- + Update dependencies version
+### Patch changes
++ Dependencies version have been updated.
+
+## 1.0.4 (Match 2020)
+ 
+### Patch changes
++ Dependencies version have been updated;
++ [`.editorconfig`] has been added.

@@ -14,7 +14,7 @@
 
 **converisy** is a package that represents an advanced implementation of `JSON.stringify` method.
 
-It allows you to correctly convert JSON unsupported values to string. 
+It allows you to convert JSON unsupported values to string correctly. 
 
 Such as `Date` value, `+/-Infinity`, `undefined`, `NaN` and function realization in `Array` or `Object`.
 
@@ -98,13 +98,13 @@ Detailed changes for each release are documented in the [release notes](CHANGELO
 
 ## Contributing
 
-I'm thanks all the people, that who contributed or who want to contribute to **conversify**.
+I'm thanks all the people who contributed or who want to contribute to **conversify**.
 
-If you want to contribute, make sure to read the [Contributing Guide](CONTRIBUTING.md) before making a pull request, thanks.
+If you want to contribute, make sure that read the [Contributing Guide](CONTRIBUTING.md) before making a pull request, thanks.
 
 ## Conclusion
 
-If you still have questions about the work of this package :grey_question: or you have cool ideas for improvement :boom:, please write to me :email:.
+If you still have questions about the work of this package :grey_question: or you have cool ideas for it improvement :boom:, please write to me :email:.
 
 If you find a bug :bug:, please create an appropriate issue with detailed information about it :speech_balloon:.
 
