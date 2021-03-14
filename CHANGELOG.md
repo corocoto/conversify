@@ -18,7 +18,7 @@ This file describes notable changes in each version of **conversify** package.
 ### Patch changes
 + Dependencies version have been updated.
 
-## 1.0.4 (Match 2020)
+## 1.0.4 (Match 2021)
  
 ### Patch changes
 + Dependencies version have been updated;
