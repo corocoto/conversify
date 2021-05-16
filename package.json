@@ -1,6 +1,6 @@
 {
   "name": "conversify",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "npm-package that represents an advanced implementation of JSON.stringify method",
   "main": "index.js",
   "repository": {
