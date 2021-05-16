@@ -12,7 +12,7 @@
 
 <img src="https://user-images.githubusercontent.com/37180024/89704181-64d22880-d95a-11ea-9593-42a2381f0e82.png" width="120" align="right">
 
-**converisy** is a package that represents an advanced implementation of `JSON.stringify` method.
+**conversify** is a package that represents an advanced implementation of `JSON.stringify` method.
 
 It allows you to convert JSON unsupported values to string correctly. 
 
