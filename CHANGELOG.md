@@ -27,3 +27,9 @@ This file describes notable changes in each version of **conversify** package.
  
 ### Patch changes
 + [`.editorconfig`] has been added.
+
+## 1.0.6 (May 2021)
+
+### Patch changes
++ Dependencies version have been updated;
++ Vulnerabilities have been fixed
