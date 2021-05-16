@@ -32,7 +32,7 @@ This file describes notable changes in each version of **conversify** package.
 
 ### Patch changes
 + Dependencies version have been updated;
-+ Vulnerabilities have been fixed
++ Vulnerabilities have been fixed.
 
 ## 1.0.7 (May 2021)
 
