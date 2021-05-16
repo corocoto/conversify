@@ -9,7 +9,8 @@
   },
   "scripts": {
     "test": "jest test/index.test.js",
-    "test:watch": "npm run test -- --watch"
+    "test:watch": "npm run test -- --watch",
+    "eslint-fix": "eslint --fix --ext .js ."
   },
   "keywords": [
     "stringify",
