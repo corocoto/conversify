@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * @version v1.0.5
+ * @version v1.0.6
  * @author Artem Gusev <gusev2014russia@mail.ru> (corocoto)
  * @copyright 2020 - present Artem Gusev. All Rights Reserved.
  * @licence MIT License
@@ -117,7 +117,8 @@ function setTemplateForInvalidDate (value) {
 /**
  * Main function that runs all necessary processes and forming output value.
  * @param {*} value - input value
- * @param {number|string|undefined} space - a `String` or `Number` object that's used to insert white space into the output JSON string for readability purposes.
+ * @param {number|string|undefined} space - a `String` or `Number` object
+ * that's used to insert white space into the output JSON string for readability purposes.
  * @return {string} result.
  */
 module.exports = (value, space) => {
@@ -128,7 +129,7 @@ module.exports = (value, space) => {
 	value = setTemplateForInvalidDate(value);
 
 	return JSON.stringify(value, replacer, space)
-		.replace(/\"\\"|\\"\"/g, '')
+		.replace(/"\\"|\\""/g, '')
 		.replace(/\\r/g, '\r')
 		.replace(/\\n/g, '\n')
 		.replace(/\\t/g, '\t');
